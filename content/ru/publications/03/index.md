@@ -9,14 +9,14 @@ caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
 
 authors:
 
-* admin
+- admin
 
 tags:
 
-* University
-* Student Life
-* Reports
-* Business Informatics
+- University
+- Student Life
+- Reports
+- Business Informatics
 
 ---
 
