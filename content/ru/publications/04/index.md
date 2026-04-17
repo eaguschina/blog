@@ -9,13 +9,13 @@ caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
 
 authors:
 
-* admin
+- admin
 
 tags:
 
-* Programming
-* Data Science
-* Scientific Computing
+- Programming
+- Data Science
+- Scientific Computing
 
 ---
 
